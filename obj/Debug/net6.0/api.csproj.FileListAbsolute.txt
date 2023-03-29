@@ -19,3 +19,4 @@ C:\Users\Douglas\vscode\api\obj\Debug\net6.0\refint\api.dll
 C:\Users\Douglas\vscode\api\obj\Debug\net6.0\api.pdb
 C:\Users\Douglas\vscode\api\obj\Debug\net6.0\api.genruntimeconfig.cache
 C:\Users\Douglas\vscode\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\Douglas\vscode\api\bin\Debug\net6.0\appsettings.Staging.json
